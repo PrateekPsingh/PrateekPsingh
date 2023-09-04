@@ -1,4 +1,7 @@
-![Banner](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1060&t=st=1693801301~exp=1693801901~hmac=0bf5afcbff17f2febbe2878ad0e1ed6f651c0eae4b478f9c2161d077a806470c)
+![Banner](https://github.com/PrateekPsingh/PrateekPsingh/assets/97173401/fb6b88fa-0ec1-42cf-af35-f731c83059a3)
+
+
+
 
 <h1 align="center">Hi 👋, I'm Prateek</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
