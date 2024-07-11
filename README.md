@@ -1,21 +1,21 @@
-![Banner](https://github.com/PrateekPsingh/PrateekPsingh/assets/97173401/fb6b88fa-0ec1-42cf-af35-f731c83059a3)
 
 
+
+![Banner](https://github.com/PrateekPsingh/PrateekPsingh/assets/97173401/b60abc9c-5ab4-4abe-82b4-2624e679acf6)
 
 
 <h1 align="center">Hi 👋, I'm Prateek</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/coding-concept-illustration_114360-1155.jpg?w=740&t=st=1693801002~exp=1693801602~hmac=ab7ae490589373a316f94c463d94d8f7ecfb37ca5ea1ee870d72d634a39d427b" >
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateekpsingh&label=Profile%20views&color=0e75b6&style=flat" alt="prateekpsingh" /> </p>
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **Next.Js**
 
-- 💬 Ask me about **react,c++, competitive programming**
+- 💬 Ask me about **MERN,c++, competitive programming**
 
 - 📫 How to reach me **Prateeksingh5116548@gmail.com**
 
-- ⚡ Fun fact **I am not a nerd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
