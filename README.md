@@ -10,16 +10,16 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateekpsingh&label=Profile%20views&color=0e75b6&style=flat" alt="prateekpsingh" /> </p>
 
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently learning **Distributed Systems**
 
-- 💬 Ask me about **MERN,c++, competitive programming**
+- 💬 Ask me about **System Design, Backend Architecture, Go, MERN, Kubernetes, Docker, C++, and Problem Solving**.
 
 - 📫 How to reach me **Prateeksingh5116548@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/prateekpsingh/](https://www.linkedin.com/in/prateekpsingh/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prateekpsingh/" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/prateekpsingh/](https://www.linkedin.com/in/prateekpsingh/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prateekpsingh/" height="30" width="40" /></a>
 <a href="https://instagram.com/singh.pratee.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singh.pratee.k" height="30" width="40" /></a>
 </p>
 
